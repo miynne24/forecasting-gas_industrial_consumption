@@ -1,0 +1,11 @@
+arch
+pandas
+numpy
+statsmodels
+matplotlib
+seaborn
+arch
+scikit-learn
+typing
+datetime
+statistics
